@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DevOpsAssignment3.props" />
+</Project>
